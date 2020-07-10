@@ -297,8 +297,15 @@ span{
   font-size: 10px;
   margin-left: 20px;
 }
+input{
+  width:295px;
+}
 .burry-title{
   margin-left: 300px;
+}
+.burry-title2{
+  margin-left: 300px;
+  margin-top: 20px;
 }
 .spantag1{
   margin-right: 100px;
